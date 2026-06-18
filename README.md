@@ -24,7 +24,7 @@ class MohammedAbuzar:
     def __init__(self):
         self.name       = "Mohammed Abuzar"
         self.role       = "MCA Student & Full Stack Developer"
-        self.college    = "DSAT Bengaluru — Affiliated to VTU"
+        self.college    = "DSATM Bengaluru — Affiliated to VTU"
         self.background = "BCA — Bangalore University (2022–2025)"
         self.location   = "Kanakapura, Karnataka, India"
         self.email      = "abuzarmd593@gmail.com"
