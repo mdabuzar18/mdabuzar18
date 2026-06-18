@@ -150,16 +150,6 @@ me = MohammedAbuzar()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdabuzar18&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
@@ -171,7 +161,7 @@ me = MohammedAbuzar()
 
 <br/>
 
-📍 Kanakapura, Karnataka &nbsp;|&nbsp; 🎓 MCA @ DSAT (VTU) &nbsp;|&nbsp; 💼 Fresher — Open to Opportunities
+📍 Kanakapura 562117, Karnataka &nbsp;|&nbsp; 🎓 MCA @ DSATM (VTU) &nbsp;|&nbsp; 💼 Fresher — Open to Opportunities
 
 </div>
 
