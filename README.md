@@ -5,13 +5,12 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Django+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+JavaScript;MCA+Student+%40+DSAT+Bengaluru+(VTU);Cybersecurity+%26+Data+Analytics+Enthusiast;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Django+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+JavaScript;MCA+Student+%40+DSATM+Bengaluru+(VTU);Cybersecurity+%26+Data+Analytics+Enthusiast;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mdabuzar18&label=Profile+Views&color=7c3aed&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/mdabuzar18?label=Followers&style=flat-square&color=7c3aed)](https://github.com/mdabuzar18?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammed-abuzar-9186502a1)
 
 </div>
