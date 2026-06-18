@@ -1,1 +1,165 @@
+<svg width="100%" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Mohammed Abuzar — Developer Profile Header</title>
+<desc>Cinematic HUD-style header in dark navy with gold and red accent geometry</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#080c14"/>
+    <stop offset="100%" stop-color="#060910"/>
+  </linearGradient>
+  <linearGradient id="goldBar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#c8920a" stop-opacity="0"/>
+    <stop offset="20%" stop-color="#e8a812"/>
+    <stop offset="80%" stop-color="#e8a812"/>
+    <stop offset="100%" stop-color="#c8920a" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="redBar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#b02010" stop-opacity="0"/>
+    <stop offset="30%" stop-color="#d42818"/>
+    <stop offset="70%" stop-color="#d42818"/>
+    <stop offset="100%" stop-color="#b02010" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#e8e0d0"/>
+    <stop offset="45%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#c8bca8"/>
+  </linearGradient>
+  <linearGradient id="leftFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0a3050" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#0a3050" stop-opacity="0.18"/>
+  </linearGradient>
+  <linearGradient id="rightFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3a0808" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#3a0808" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="clip"><rect width="680" height="220"/></clipPath>
+  <style>
+    @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes scanH{0%{stroke-dashoffset:300}100%{stroke-dashoffset:0}}
+    @keyframes breathe{0%,100%{opacity:.55}50%{opacity:.9}}
+    @keyframes spinS{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+    @keyframes spinSr{from{transform:rotate(0deg)}to{transform:rotate(-360deg)}}
+    .p{animation:pulse 2.4s ease-in-out infinite}
+    .p2{animation:pulse 2.4s ease-in-out infinite .8s}
+    .p3{animation:pulse 2.4s ease-in-out infinite 1.6s}
+    .br{animation:breathe 3s ease-in-out infinite}
+    .sc{stroke-dasharray:120 200;animation:scanH 4s linear infinite}
+    .sp1{transform-origin:120px 110px;animation:spinS 20s linear infinite}
+    .sp2{transform-origin:120px 110px;animation:spinSr 14s linear infinite}
+    .sp3{transform-origin:560px 110px;animation:spinS 18s linear infinite}
+    .sp4{transform-origin:560px 110px;animation:spinSr 12s linear infinite}
+  </style>
+</defs>
+<g clip-path="url(#clip)">
 
+<rect width="680" height="220" fill="url(#bg)"/>
+<rect width="340" height="220" fill="url(#leftFade)"/>
+<rect x="340" width="340" height="220" fill="url(#rightFade)"/>
+
+<g stroke="#1a2840" stroke-width="0.5" fill="none">
+  <line x1="0" y1="44" x2="680" y2="44"/>
+  <line x1="0" y1="88" x2="680" y2="88"/>
+  <line x1="0" y1="132" x2="680" y2="132"/>
+  <line x1="0" y1="176" x2="680" y2="176"/>
+</g>
+<g stroke="#1a2840" stroke-width="0.5" fill="none">
+  <line x1="96" y1="0" x2="96" y2="220"/>
+  <line x1="192" y1="0" x2="192" y2="220"/>
+  <line x1="340" y1="0" x2="340" y2="220"/>
+  <line x1="488" y1="0" x2="488" y2="220"/>
+  <line x1="584" y1="0" x2="584" y2="220"/>
+</g>
+
+<circle cx="120" cy="110" r="66" fill="none" stroke="#0d2a44" stroke-width="1"/>
+<g class="sp1">
+  <circle cx="120" cy="110" r="66" fill="none" stroke="#1a4a70" stroke-width="0.8" stroke-dasharray="6 10"/>
+</g>
+<g class="sp2">
+  <circle cx="120" cy="110" r="50" fill="none" stroke="#0e3356" stroke-width="1.2" stroke-dasharray="3 8"/>
+</g>
+<circle cx="120" cy="110" r="38" fill="none" stroke="#124070" stroke-width="0.8"/>
+<polygon points="120,80 146,95 146,125 120,140 94,125 94,95" fill="#020810" stroke="#1e5a8a" stroke-width="1.2"/>
+<polygon points="120,86 140,97 140,123 120,134 100,123 100,97" fill="#031424" stroke="#2272aa" stroke-width="0.6"/>
+<line x1="120" y1="80" x2="120" y2="72" stroke="#2272aa" stroke-width="0.8"/>
+<line x1="146" y1="95" x2="153" y2="91" stroke="#2272aa" stroke-width="0.8"/>
+<line x1="146" y1="125" x2="153" y2="129" stroke="#2272aa" stroke-width="0.8"/>
+<line x1="120" y1="140" x2="120" y2="148" stroke="#2272aa" stroke-width="0.8"/>
+<line x1="94" y1="125" x2="87" y2="129" stroke="#2272aa" stroke-width="0.8"/>
+<line x1="94" y1="95" x2="87" y2="91" stroke="#2272aa" stroke-width="0.8"/>
+<circle cx="120" cy="110" r="14" fill="#010b18" stroke="#2e88cc" stroke-width="1.4"/>
+<circle cx="120" cy="110" r="8" fill="#0a2a48" stroke="#4ab0f0" stroke-width="1" class="br"/>
+<circle cx="120" cy="110" r="3" fill="#7ad4ff" class="p"/>
+
+<circle cx="560" cy="110" r="66" fill="none" stroke="#2a0d0d" stroke-width="1"/>
+<g class="sp3">
+  <circle cx="560" cy="110" r="66" fill="none" stroke="#4a1010" stroke-width="0.8" stroke-dasharray="6 10"/>
+</g>
+<g class="sp4">
+  <circle cx="560" cy="110" r="50" fill="none" stroke="#3a1212" stroke-width="1.2" stroke-dasharray="3 8"/>
+</g>
+<circle cx="560" cy="110" r="38" fill="none" stroke="#500f0f" stroke-width="0.8"/>
+<g stroke="#5a1010" stroke-width="0.8" fill="none">
+  <line x1="560" y1="75" x2="560" y2="48"/>
+  <line x1="560" y1="145" x2="560" y2="172"/>
+  <line x1="525" y1="110" x2="498" y2="110"/>
+  <line x1="595" y1="110" x2="622" y2="110"/>
+  <line x1="535" y1="85" x2="515" y2="65"/>
+  <line x1="585" y1="85" x2="605" y2="65"/>
+  <line x1="535" y1="135" x2="515" y2="155"/>
+  <line x1="585" y1="135" x2="605" y2="155"/>
+</g>
+<g stroke="#4a1515" stroke-width="0.7" fill="none">
+  <circle cx="560" cy="110" r="18"/>
+  <circle cx="560" cy="110" r="30"/>
+</g>
+<circle cx="560" cy="110" r="14" fill="#100303" stroke="#882020" stroke-width="1.4"/>
+<circle cx="560" cy="110" r="8" fill="#280808" stroke="#cc3030" stroke-width="1" class="br"/>
+<circle cx="560" cy="110" r="3" fill="#ff6060" class="p2"/>
+
+<rect x="192" y="104" width="148" height="0.8" fill="url(#goldBar)"/>
+<rect x="340" y="104" width="148" height="0.8" fill="url(#redBar)"/>
+<rect x="192" y="116" width="148" height="0.8" fill="url(#goldBar)" opacity="0.4"/>
+<rect x="340" y="116" width="148" height="0.8" fill="url(#redBar)" opacity="0.4"/>
+<polygon points="340,100 345,110 340,120 335,110" fill="none" stroke="#888070" stroke-width="0.8"/>
+<polygon points="340,104 343,110 340,116 337,110" fill="#33302a"/>
+
+<text x="340" y="96" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="30" font-weight="700"
+  fill="url(#nameGrad)" letter-spacing="7">MOHAMMED ABUZAR</text>
+
+<text x="340" y="130" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="10.5"
+  fill="#c89a18" letter-spacing="4.5">MCA STUDENT  ·  FULL STACK DEVELOPER</text>
+
+<line x1="40" y1="176" x2="640" y2="176" stroke="#1c2430" stroke-width="0.6"/>
+
+<rect x="40" y="182" width="4" height="4" fill="#2272aa" class="p"/>
+<text x="52" y="188" font-family="'Courier New',monospace" font-size="8" fill="#2a4a6a" letter-spacing="1.5">STATUS : ONLINE</text>
+<rect x="185" y="182" width="4" height="4" fill="#2272aa" class="p2"/>
+<text x="197" y="188" font-family="'Courier New',monospace" font-size="8" fill="#2a4a6a" letter-spacing="1.5">MCA STUDENT</text>
+
+<text x="340" y="204" text-anchor="middle"
+  font-family="'Courier New',monospace" font-size="8.5" fill="#38342c" letter-spacing="2">github.com/mdabuzar18</text>
+
+<rect x="464" y="182" width="4" height="4" fill="#cc3030" class="p3"/>
+<text x="476" y="188" font-family="'Courier New',monospace" font-size="8" fill="#6a2a2a" letter-spacing="1.5">VTU / DSATM</text>
+<rect x="572" y="182" width="4" height="4" fill="#cc3030" class="p"/>
+<text x="584" y="188" font-family="'Courier New',monospace" font-size="8" fill="#6a2a2a" letter-spacing="1.5">OPEN TO WORK</text>
+
+<line x1="192" y1="110" x2="488" y2="110" stroke="#1a3a5a" stroke-width="0.6" class="sc"/>
+
+<g stroke="#1e3550" stroke-width="1" fill="none">
+  <path d="M8,20 L8,8 L20,8"/>
+  <path d="M660,8 L672,8 L672,20"/>
+  <path d="M8,210 L8,218 L20,218"/>
+  <path d="M660,218 L672,218 L672,210"/>
+</g>
+<circle cx="8" cy="8" r="1.5" fill="#1e3550" class="p"/>
+<circle cx="672" cy="8" r="1.5" fill="#3a1010" class="p2"/>
+<circle cx="8" cy="218" r="1.5" fill="#1e3550" class="p3"/>
+<circle cx="672" cy="218" r="1.5" fill="#3a1010" class="p"/>
+
+<rect x="0" y="0" width="680" height="1.5" fill="url(#goldBar)" opacity="0.7"/>
+<rect x="0" y="218.5" width="680" height="1.5" fill="url(#goldBar)" opacity="0.4"/>
+
+</g>
+</svg>
