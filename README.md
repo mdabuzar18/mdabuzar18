@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Abuzar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="./header.svg" width="100%" alt="Mohammed Abuzar"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
