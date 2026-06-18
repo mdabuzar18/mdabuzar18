@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="./header.svg" width="100%" alt="Mohammed Abuzar"/>
+<img src="/header.svg" width="100%" alt="Mohammed Abuzar"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
